@@ -17,7 +17,7 @@ import java.util.logging.Logger;
  * @author pezzali.alessio
  */
 public class ClientFrame1 extends javax.swing.JFrame {
-    int port = 2000;
+    int port = 6000;
     InetAddress serverAddress;
     Socket socket;
     InputStream in;
